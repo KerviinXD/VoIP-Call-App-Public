@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VoIP Chat App</title>
+</head>
+<body>
+
+    <h3>Enter Your Name</h3>
+    <input type="text" id="nameInput" placeholder="Your Name">
+    <button id="setNameButton">Set Name</button>
+
+    <h3>Chat</h3>
+    <div id="chatBox"></div>
+    <input type="text" id="messageInput" placeholder="Type a message">
+    <button id="sendButton">Send</button>
+
+    <h3>Calls</h3>
+    <button id="startCallButton">Start Call</button>
+    <button id="muteButton">Mute</button>
+    <button id="deafenButton">Deafen</button>
+
+    <h3>Audio Streams</h3>
+    <audio id="localAudio" autoplay></audio>
+    <audio id="remoteAudio" autoplay></audio>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script src="index.js"></script>
+
+</body>
+</html>

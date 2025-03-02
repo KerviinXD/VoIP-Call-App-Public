@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.js",
+      "PackagePath": "staticwebassets\\index.js"
+    },
+    {
+      "Id": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\deafen.mp3",
+      "PackagePath": "staticwebassets\\sounds\\deafen.mp3"
+    },
+    {
+      "Id": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\message.mp3",
+      "PackagePath": "staticwebassets\\sounds\\message.mp3"
+    },
+    {
+      "Id": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\mute.mp3",
+      "PackagePath": "staticwebassets\\sounds\\mute.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CallApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CallApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CallApp.props",
+      "PackagePath": "build\\CallApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CallApp.props",
+      "PackagePath": "buildMultiTargeting\\CallApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CallApp.props",
+      "PackagePath": "buildTransitive\\CallApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

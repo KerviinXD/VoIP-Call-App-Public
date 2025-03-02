@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "Hash": "XC7rx19wI6plV0U3xK6KIFk1zSNEELjgc5N5hRPDXF4=",
+  "Source": "CallApp",
+  "BasePath": "_content/CallApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CallApp\\wwwroot",
+      "Source": "CallApp",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.html",
+      "SourceId": "CallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lticofwgeb",
+      "Integrity": "SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.js",
+      "SourceId": "CallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "RelativePath": "index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "owk0nk2oyz",
+      "Integrity": "KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.js"
+    },
+    {
+      "Identity": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\deafen.mp3",
+      "SourceId": "CallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "RelativePath": "sounds/deafen#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c839n2zn8i",
+      "Integrity": "ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sounds\\deafen.mp3"
+    },
+    {
+      "Identity": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\message.mp3",
+      "SourceId": "CallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "RelativePath": "sounds/message#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3zyet690ok",
+      "Integrity": "j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sounds\\message.mp3"
+    },
+    {
+      "Identity": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\mute.mp3",
+      "SourceId": "CallApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\",
+      "BasePath": "_content/CallApp",
+      "RelativePath": "sounds/mute#[.{fingerprint}]?.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0x9mt1tgdj",
+      "Integrity": "THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sounds\\mute.mp3"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20="
+        }
+      ]
+    },
+    {
+      "Route": "index.js",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I="
+        }
+      ]
+    },
+    {
+      "Route": "index.lticofwgeb.html",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lticofwgeb"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20="
+        }
+      ]
+    },
+    {
+      "Route": "index.owk0nk2oyz.js",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owk0nk2oyz"
+        },
+        {
+          "Name": "label",
+          "Value": "index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/deafen.c839n2zn8i.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\deafen.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c839n2zn8i"
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/deafen.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/deafen.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\deafen.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/message.3zyet690ok.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\message.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:11:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zyet690ok"
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/message.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/message.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\message.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:11:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/mute.0x9mt1tgdj.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\mute.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0x9mt1tgdj"
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/mute.mp3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/mute.mp3",
+      "AssetFile": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\wwwroot\\sounds\\mute.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk="
+        }
+      ]
+    }
+  ]
+}

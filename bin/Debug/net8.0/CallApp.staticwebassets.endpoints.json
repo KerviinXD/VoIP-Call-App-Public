@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20="
+        }
+      ]
+    },
+    {
+      "Route": "index.js",
+      "AssetFile": "index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I="
+        }
+      ]
+    },
+    {
+      "Route": "index.lticofwgeb.html",
+      "AssetFile": "index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lticofwgeb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SZ5ffeFiOgNrGlX0jhOCsITXGGxxqYE0QC18HlG6F20="
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        }
+      ]
+    },
+    {
+      "Route": "index.owk0nk2oyz.js",
+      "AssetFile": "index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5732"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:50:35 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "owk0nk2oyz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KC/r4+8ec3i75phNUwCySSMR9RO5CDMnm1U2D7qkh/I="
+        },
+        {
+          "Name": "label",
+          "Value": "index.js"
+        }
+      ]
+    },
+    {
+      "Route": "sounds/deafen.c839n2zn8i.mp3",
+      "AssetFile": "sounds/deafen.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c839n2zn8i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ="
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/deafen.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "sounds/deafen.mp3",
+      "AssetFile": "sounds/deafen.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:50 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZNjv+eN0RB/nwK+ihFoQ9Xrs5rrjL3KYVgbOM+EjLjQ="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/message.3zyet690ok.mp3",
+      "AssetFile": "sounds/message.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:11:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zyet690ok"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE="
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/message.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "sounds/message.mp3",
+      "AssetFile": "sounds/message.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:11:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j00xUJks+GBJtae+yl0Ok0O3jo3ZJD9tvk0DoxD/ruE="
+        }
+      ]
+    },
+    {
+      "Route": "sounds/mute.0x9mt1tgdj.mp3",
+      "AssetFile": "sounds/mute.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0x9mt1tgdj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk="
+        },
+        {
+          "Name": "label",
+          "Value": "sounds/mute.mp3"
+        }
+      ]
+    },
+    {
+      "Route": "sounds/mute.mp3",
+      "AssetFile": "sounds/mute.mp3",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7528"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "audio/mpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 02 Mar 2025 14:10:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-THP81CXY3d/vDSrZcPL9QUvn6x0ZD0m3CY6NY49DgDk="
+        }
+      ]
+    }
+  ]
+}

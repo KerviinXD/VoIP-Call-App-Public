@@ -1,0 +1,5 @@
+wwwroot\index.html
+wwwroot\index.js
+wwwroot\sounds\deafen.mp3
+wwwroot\sounds\message.mp3
+wwwroot\sounds\mute.mp3
