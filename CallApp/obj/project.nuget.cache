@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zZ9ATieFWEc=",
+  "success": true,
+  "projectFilePath": "D:\\VSTUDIO REPO\\CallApp\\CallApp\\CallApp\\CallApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melki\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\melki\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
