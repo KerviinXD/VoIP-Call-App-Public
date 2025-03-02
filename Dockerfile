@@ -1,27 +1,20 @@
-# Use official .NET SDK image
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
+# Use the official .NET SDK image for building
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
-EXPOSE 8080
 
-# Build Stage
-FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /src
-
-# Copy .csproj and restore dependencies
+# Copy the .csproj file and restore dependencies
 COPY ["CallApp/CallApp.csproj", "CallApp/"]
 RUN dotnet restore "CallApp/CallApp.csproj"
 
 # Copy the rest of the app and build
 COPY . .
-WORKDIR "/src/CallApp"
-RUN dotnet build "CallApp.csproj" -c Release -o /app/build
+RUN dotnet build "CallApp/CallApp.csproj" -c Release -o /app/build
 
-# Publish Stage
-FROM build AS publish
-RUN dotnet publish "CallApp.csproj" -c Release -o /app/publish
+# Publish the app
+RUN dotnet publish "CallApp/CallApp.csproj" -c Release -o /app/publish
 
-# Final Stage
-FROM base AS final
+# Final stage: Run the app
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS final
 WORKDIR /app
-COPY --from=publish /app/publish .
+COPY --from=build /app/publish .
 ENTRYPOINT ["dotnet", "CallApp.dll"]
